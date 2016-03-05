@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih04unkngoog_0011.png"; bbox 0 0 3025 4892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 465 1700 2450 2143">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 465 1700 2450 2143">
+     <span class='ocr_line' id='line_1_1' title="bbox 789 1700 2120 1857; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 789 1700 2120 1857; x_wconf 72' lang='lat' dir='ltr'><strong>SUPPLEMENTORUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 465 2023 2450 2143; baseline 0.002 -3"><span class='ocrx_word' id='word_1_2' title='bbox 465 2023 589 2140; x_wconf 88' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_3' title='bbox 676 2025 749 2140; x_wconf 91' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_4' title='bbox 833 2024 959 2138; x_wconf 92' lang='lat' dir='ltr'><strong>V</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1045 2027 1118 2141; x_wconf 88' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_6' title='bbox 1200 2027 1327 2141; x_wconf 93' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_7' title='bbox 1410 2025 1546 2141; x_wconf 87' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_8' title='bbox 1636 2024 1760 2142; x_wconf 89' lang='grc' dir='ltr'><strong>Ο</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1848 2026 1982 2143; x_wconf 87' lang='lat' dir='ltr'><strong>R</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2061 2024 2201 2143; x_wconf 81' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_11' title='bbox 2287 2026 2450 2142; x_wconf 89' lang='lat' dir='ltr'>M</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1070 2303 1855 2384">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1070 2303 1855 2384">
+     <span class='ocr_line' id='line_1_3' title="bbox 1070 2303 1855 2384; baseline 0.001 -15"><span class='ocrx_word' id='word_1_12' title='bbox 1070 2303 1411 2369; x_wconf 84' lang='lat' dir='ltr'><strong>LIBRI·</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1457 2303 1855 2384; x_wconf 77' lang='lat' dir='ltr'>DECEM,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 720 2516 2195 2582">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 720 2516 2195 2582">
+     <span class='ocr_line' id='line_1_4' title="bbox 720 2516 2195 2582; baseline -0.003 -2"><span class='ocrx_word' id='word_1_14' title='bbox 720 2520 850 2581; x_wconf 87' lang='lat' dir='ltr'><strong>AB</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 896 2518 1399 2582; x_wconf 84' lang='lat' dir='ltr'>UNDECIMO</span> <span class='ocrx_word' id='word_1_16' title='bbox 1443 2520 1577 2581; x_wconf 82' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1622 2516 2195 2581; x_wconf 79' lang='lat' dir='ltr'><strong>vlcESIMUM:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 589 2727 2334 2811">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 589 2727 2334 2811">
+     <span class='ocr_line' id='line_1_5' title="bbox 589 2727 2334 2811; baseline -0.002 -3"><span class='ocrx_word' id='word_1_18' title='bbox 589 2732 1184 2810; x_wconf 86' lang='lat' dir='ltr'>AUCTORE</span> <span class='ocrx_word' id='word_1_19' title='bbox 1260 2734 1339 2810; x_wconf 82' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1409 2727 2334 2811; x_wconf 84' lang='lat' dir='ltr'><strong>FREINSHEMIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
